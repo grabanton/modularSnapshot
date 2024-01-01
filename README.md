@@ -3,6 +3,8 @@
 
 This is a touchdesigner component, which allows you to save the snapshot of a Eurorack patch. Includes the state of all controls and patch cables. Allows you to create easily reproducible live setups. You can scale this system by adding your own modules using the templates and approaches provided in this example. I love the way of interaction with modular synthesiser, but it  has obvious disadvantages. 
 
+In this tool I used great setup, maded by Greg Hermanovic for zooming in custom ui. Got toe from here https://forum.derivative.ca/t/zoom-ui-on-images-panels-ortho-cams/11580
+
 This is my own setup, maded for personal usage in my audio-visual projects, but I think it can be easily changed for your system. 
 
 ## How to add a new module in system.
