@@ -1,5 +1,5 @@
 # ModularSnapshot.toe
-[![Modular snapshot demo on youtube](https://img.youtube.com/vi/7A-n0jbRglo/0.jpg)](https://www.youtube.com/watch?v=7A-n0jbRglo)
+[![Modular snapshot demo on youtube](images/cover.png)](https://www.youtube.com/watch?v=7A-n0jbRglo)
 
 This is a touchdesigner component, which allows you to save the snapshot of a Eurorack patch. Includes the state of all controls and patch cables. Allows you to create easily reproducible live setups. You can easily scale this system by adding your own modules using the templates and approaches provided in this example. I love the way of interaction with modular synthesiser, but it  has obvious disadvantages. 
 
